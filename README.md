@@ -1,5 +1,5 @@
 # SecurityCamera
-Security Device that has a camera, motion sensor, lights, and can send images to discord.
+This project aims to recreate a ring camera or a security camera through utilizing the components of the ESP32 kit. The device captures a picture of any motion detected from the sensor and flashes a light of said motion. The captured photo will be sent and displayed to discord to which we can view.
 
 Image of the final product:\
 ![image](https://github.com/user-attachments/assets/ff436475-d89a-4570-96dd-cbc57aaa8566)
