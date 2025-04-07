@@ -1,7 +1,7 @@
 # SecurityCamera
 Security Device that has a camera, motion sensor, lights, and can send images to discord.
 
-Image of the final product:![tab]
+Image of the final product:\
 ![image](https://github.com/user-attachments/assets/ff436475-d89a-4570-96dd-cbc57aaa8566)
 
 The output of the product:
